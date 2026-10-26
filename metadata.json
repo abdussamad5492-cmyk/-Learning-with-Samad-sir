@@ -1,0 +1,6 @@
+{
+  "name": "Smart Learning with Samad Sir",
+  "description": "AI-powered educational platform for Bangladeshi secondary students (Classes 6–10) and teachers. Simple Bangla explanations, English grammar lab, Biology lab, science, ICT, quizzes, and teacher assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
